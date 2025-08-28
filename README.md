@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agungatd
 - 👀 I’m interested in Building Data Pipeline and Machine learning model
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently working as Data Engineer
 - 📫 How to reach me agungatidhira@gmail.com
 
 <!---
